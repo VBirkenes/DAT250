@@ -23,6 +23,10 @@ Content:
 
 ## Experiment 2: Banking/Credit Card example JPA
 
+Link to code: https://github.com/VBirkenes/DAT250-experiment2
+
+<img width="549" alt="image" src="https://user-images.githubusercontent.com/50453041/132953714-6d81af8b-a0c4-4e37-8443-1a6b5b78e17d.png">
+
 
 
 
