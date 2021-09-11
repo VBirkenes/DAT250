@@ -6,7 +6,7 @@ This is assignment 2 of DAT250. Author: Vegard Birkenes.
 
 Link to experiment 1: https://github.com/VBirkenes/DAT250-experiment1/settings
 
-Cloned the Maven project and followed the tutorial. 
+Cloned the Maven project and followed the tutorial. I downloaded the JPA plugin for IntelliJ. This was straightforward so I did not encounter any problems.
 
 Running main:
 
@@ -15,5 +15,14 @@ Running main:
 Inspected the database using IntelliJ:
 
 <img width="621" alt="image" src="https://user-images.githubusercontent.com/50453041/132947305-a78cd0ce-e12a-4763-a5c6-71ab7ff91fbd.png">
+
+Content:
+
+<img width="439" alt="image" src="https://user-images.githubusercontent.com/50453041/132947932-b3d5607a-c1dc-46b3-8466-62d5a9f83086.png">
+
+
+## Experiment 2: Banking/Credit Card example JPA
+
+
 
 
