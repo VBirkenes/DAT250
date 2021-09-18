@@ -15,7 +15,7 @@ I used SHA-256 to verify the MongoDB package. Second to last line says OK:
 
 ### Update:
 
-<img width="679" alt="image" src="https://user-images.githubusercontent.com/50453041/133889491-3e59a905-7202-4805-950b-a72df82e0baf.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/50453041/133889491-3e59a905-7202-4805-950b-a72df82e0baf.png">
 
 ### Remove:
 
