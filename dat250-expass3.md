@@ -19,7 +19,7 @@ I used SHA-256 to verify the MongoDB package. Second to last line says OK:
 
 ### Remove:
 
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/50453041/133889586-d62a8cf2-2dee-4aef-b17d-7d09d2518df2.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/50453041/133889586-d62a8cf2-2dee-4aef-b17d-7d09d2518df2.png">
 
 ### Bulk-write:
 
