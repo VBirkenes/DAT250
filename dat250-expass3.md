@@ -46,6 +46,8 @@ Approach:
 
 <img width="432" alt="image" src="https://user-images.githubusercontent.com/50453041/133891678-6264aed4-6e40-4c46-97aa-f78d42cda581.png">
 
+Result:
+
 <img width="409" alt="image" src="https://user-images.githubusercontent.com/50453041/133891649-f62a7b05-68fc-4e7b-8f9b-e96514867ff6.png">
 
 As we can see from the result the shop makes much more some days than others. This could of course be caused by a small sample size, but it could be worth keeping track over a longer period of time.
