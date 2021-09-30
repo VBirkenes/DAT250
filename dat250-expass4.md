@@ -12,16 +12,16 @@ I used Spark/Java counter service as my starting point. I found it difficult to 
 
 ### Post (Create):
 
-<img width="1023" alt="image" src="https://user-images.githubusercontent.com/50453041/135447736-990c3896-0eaa-4085-855a-2456ef903a21.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/50453041/135447736-990c3896-0eaa-4085-855a-2456ef903a21.png">
 
 ### Get (Read):
 
-<img width="1023" alt="image" src="https://user-images.githubusercontent.com/50453041/135445233-af07742c-e559-4479-b863-dc6508836993.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/50453041/135445233-af07742c-e559-4479-b863-dc6508836993.png">
 
 ### Put (Update):
 
-<img width="1023" alt="image" src="https://user-images.githubusercontent.com/50453041/135447864-c1474221-e695-4ce6-83b0-23044592537d.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/50453041/135447864-c1474221-e695-4ce6-83b0-23044592537d.png">
 
 ### Delete:
 
-<img width="1023" alt="image" src="https://user-images.githubusercontent.com/50453041/135448004-7fa7f337-9623-493c-817f-17d4c426a4d2.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/50453041/135448004-7fa7f337-9623-493c-817f-17d4c426a4d2.png">
