@@ -1,5 +1,12 @@
 # Experiment 1: Spark/Java Framework project and Postman
 
+### Get
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/50453041/135448814-d29453af-47da-440a-9b7b-d56298157ca4.png">
+
+### Post
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/50453041/135451707-b448b32d-168f-4be6-94ba-db3c18fa8f4c.png">
 
 
 # Experiment 2: REST API for TODO-items
