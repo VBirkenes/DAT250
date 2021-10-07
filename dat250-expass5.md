@@ -20,4 +20,4 @@ Running unit test:
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/50453041/136439768-1dfbda57-3a95-4da0-ac45-515193fd7c21.png">
 
-It does not seem like the application finds the CustomerRepository. I find this weird since it is placed under the same package as the spring application itself.
+It does not seem like the application finds the CustomerRepository. I find this weird since it is placed under the same package as the spring application itself. (cut out text is "could not be found").
