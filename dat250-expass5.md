@@ -1,3 +1,5 @@
+Code can be found here: https://github.com/VBirkenes/dat250-expass5-code
+
 # Experiment 1: Getting started
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/50453041/136407047-1c3eabfc-3ef1-44a4-9cc4-ec720f26a93a.png">
