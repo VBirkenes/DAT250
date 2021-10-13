@@ -16,3 +16,7 @@ Clicking the link and adding name parameter in the url:
 Code can be found here: https://github.com/VBirkenes/react-tic-tac-toe.
 
 <img width="324" alt="image" src="https://user-images.githubusercontent.com/50453041/137107124-dc3459f4-ae57-4b7c-9524-b63c30b877ad.png">
+
+## Pending Issues
+
+ I found both tutorials easy to follow so I have no pending issues.
